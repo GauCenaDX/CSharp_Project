@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWExceptionHandling", "HWExceptionHandling\HWExceptionHandling.csproj", "{C659BB43-D8ED-445F-9FB5-77EC41A67D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C659BB43-D8ED-445F-9FB5-77EC41A67D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C659BB43-D8ED-445F-9FB5-77EC41A67D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C659BB43-D8ED-445F-9FB5-77EC41A67D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C659BB43-D8ED-445F-9FB5-77EC41A67D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C2017B-2F7F-4C42-90EC-09F18F41FA2B}
+	EndGlobalSection
+EndGlobal

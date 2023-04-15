@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{42B7F347-86C9-4133-B0A1-6F116D7FF635}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWMethods/Program.cs">
+    <Files>
+      <File FileName="HWMethods/Program.cs" Line="9" Column="1" />
+      <File FileName="HWMethods/ConsoleMessages.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWMethods" expanded="True">
+            <Node name="HWMethods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HWMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7526BE26-597F-452F-88A5-A89CDE45EF27}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HWAdvancedBreakPoints PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWAdvancedBreakPoints/Program.cs">
+    <Files>
+      <File FileName="HWAdvancedBreakPoints/Program.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWAdvancedBreakPointsApp" expanded="True">
+            <Node name="HWAdvancedBreakPoints" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint hitCountMode="MultipleOf" hitCount="50" file="/Users/ducnguyen/Projects/HWAdvancedBreakPointsApp/HWAdvancedBreakPoints/Program.cs" relfile="HWAdvancedBreakPoints/Program.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

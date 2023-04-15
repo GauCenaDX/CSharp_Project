@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7EC1F0A3-6C3E-44ED-BF48-9A1B990D82B1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProjGuestBook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjGuestBook/ConsoleMessages.cs">
+    <Files>
+      <File FileName="ProjGuestBook/Program.cs" Line="18" Column="23" />
+      <File FileName="ProjGuestBook/ConsoleMessages.cs" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjGuestBookApp" expanded="True">
+            <Node name="ProjGuestBook" expanded="True">
+              <Node name="ConsoleMessages.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

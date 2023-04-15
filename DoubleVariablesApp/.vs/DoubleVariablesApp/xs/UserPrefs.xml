@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{09591B23-CDC5-487A-842D-D7F025F4DCEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoubleVariables/Program.cs">
+    <Files>
+      <File FileName="DoubleVariables/Program.cs" Line="11" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoubleVariablesApp" expanded="True">
+            <Node name="DoubleVariables" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DoubleVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

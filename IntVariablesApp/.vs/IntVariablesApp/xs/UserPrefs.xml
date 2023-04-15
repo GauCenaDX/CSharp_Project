@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{34152A7D-1EB8-4AF4-A3BC-BBA45DE0B24C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntVariables/Program.cs">
+    <Files>
+      <File FileName="IntVariables/Program.cs" Line="12" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IntVariablesApp" expanded="True">
+            <Node name="IntVariables" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IntVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

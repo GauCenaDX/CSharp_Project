@@ -1,0 +1,40 @@
+﻿
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleUI
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            RunsALot();
+        }
+
+        private static void RunsALot()
+        {
+            long total = 0;
+            int test = 0;
+
+            for (int i = -1000; i <= 1000; i++)
+            {
+                total += i;
+
+                try
+                {
+                    test = 5 / i;
+                }
+                catch  //-- a catch without anything will catch everything
+                {
+                    Console.WriteLine("There was an exception.");
+                }
+            }
+
+            Console.WriteLine($"The total is {total}.");
+        }
+    }
+}

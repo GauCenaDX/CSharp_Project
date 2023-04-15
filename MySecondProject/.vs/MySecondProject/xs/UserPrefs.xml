@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{23CB3F2E-302A-44FB-818C-6062902E219E}|Default">
+  <MonoDevelop.Ide.ItemProperties.GreetingApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GreetingApp/Program.cs">
+    <Files>
+      <File FileName="GreetingApp/Program.cs" Line="15" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySecondProject" expanded="True">
+            <Node name="GreetingApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

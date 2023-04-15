@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FBA25613-4C12-45DD-98D8-D95BF18541A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWConditionalStatementsIf/Program.cs">
+    <Files>
+      <File FileName="HWConditionalStatementsIf/Program.cs" Line="18" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWConditionalStatementsIfApp" expanded="True">
+            <Node name="HWConditionalStatementsIf" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HWConditionalStatementsIf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

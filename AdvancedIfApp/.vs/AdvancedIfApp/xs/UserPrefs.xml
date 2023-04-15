@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F0D3D029-839D-4B91-93D3-50990661363B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedIf/Program.cs">
+    <Files>
+      <File FileName="AdvancedIf/Program.cs" Line="13" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvancedIfApp" expanded="True">
+            <Node name="AdvancedIf" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AdvancedIf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

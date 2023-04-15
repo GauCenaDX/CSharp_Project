@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{797DEF5A-A5AC-4F40-8BA5-CC03C9B08EE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWArrays/Program.cs">
+    <Files>
+      <File FileName="HWArrays/Program.cs" Line="7" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWArraysApp" expanded="True">
+            <Node name="HWArrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HWArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

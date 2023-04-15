@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BF9598CD-C863-4993-8668-00FDC177E301}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateTimeVariables/Program.cs">
+    <Files>
+      <File FileName="DateTimeVariables/Program.cs" Line="5" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DateTimeVariablesApp" expanded="True">
+            <Node name="DateTimeVariables" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DateTimeVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

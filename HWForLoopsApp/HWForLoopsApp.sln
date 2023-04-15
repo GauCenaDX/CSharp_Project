@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWForLoops", "HWForLoops\HWForLoops.csproj", "{68FBC7C0-6BD9-477E-BF13-E146F44AE6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FBC7C0-6BD9-477E-BF13-E146F44AE6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FBC7C0-6BD9-477E-BF13-E146F44AE6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FBC7C0-6BD9-477E-BF13-E146F44AE6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FBC7C0-6BD9-477E-BF13-E146F44AE6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486FEB65-A8F2-40C1-8E0F-34A2BB4A3141}
+	EndGlobalSection
+EndGlobal

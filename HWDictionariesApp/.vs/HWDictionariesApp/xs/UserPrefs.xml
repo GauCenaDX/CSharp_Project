@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AF3E79A4-1622-4015-8717-4BD67AFFEE59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWDictionaries/Program.cs">
+    <Files>
+      <File FileName="HWDictionaries/Program.cs" Line="9" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWDictionariesApp" expanded="True">
+            <Node name="HWDictionaries" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HWDictionaries PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

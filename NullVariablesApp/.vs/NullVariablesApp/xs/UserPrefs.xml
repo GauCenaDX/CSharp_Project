@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AF11E4C0-A10D-4F24-B71B-1CBDBCF20A24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NullVariables/Program.cs">
+    <Files>
+      <File FileName="NullVariables/Program.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NullVariablesApp" expanded="True">
+            <Node name="NullVariables" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NullVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
