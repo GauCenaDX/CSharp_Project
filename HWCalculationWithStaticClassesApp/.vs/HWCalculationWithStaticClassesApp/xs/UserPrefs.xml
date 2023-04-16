@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{61AA37E6-5D7D-4887-8FA6-8091AAC69659}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWCalculationWithStaticClasses/CalculateData.cs">
+    <Files>
+      <File FileName="HWCalculationWithStaticClasses/CalculateDate.cs" Line="13" Column="27" />
+      <File FileName="HWCalculationWithStaticClasses/UserMessages.cs" Line="22" Column="8" />
+      <File FileName="HWCalculationWithStaticClasses/RequestData.cs" Line="15" Column="43" />
+      <File FileName="HWCalculationWithStaticClasses/Program.cs" Line="11" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWCalculationWithStaticClassesApp" expanded="True">
+            <Node name="HWCalculationWithStaticClasses" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HWCalculationWithStaticClasses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

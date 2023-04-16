@@ -1,0 +1,15 @@
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.deps.json
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.runtimeconfig.json
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.dll
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.pdb
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.AssemblyInfo.cs
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.dll
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/refint/ConsoleUI.dll
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.pdb
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.genruntimeconfig.cache
+/Users/ducnguyen/Projects/StaticClassesDemo/ConsoleUI/obj/Debug/net6.0/ref/ConsoleUI.dll
