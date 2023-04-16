@@ -1,11 +1,22 @@
 # C# Mastercourse - Tim Corey
 
 Git Repository:
-https://github.com/basir/mern-amazona/blob/master/backend/data.js
+https://github.com/GauCenaDX/CSharp_Project
 
-## Lessons:
+## Mini Projects:
 
-### 1. Lesson 1
+### 1. StudentCheckApp
 
-### 2. Lesson 2
+- Comman Variables (int, string, etc.)
+- Conditional Statements (if, switch)
+
+### 2. ProjGuestBookApp 
+
+- Loops and Sets
+- Methods
+
+### 3. ProjDebugging
+
+- Breakpoints and Debugger
+- Exceptions Handling
 
