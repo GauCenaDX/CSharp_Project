@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWInstantiaredClasses", "HWInstantiaredClasses\HWInstantiaredClasses.csproj", "{5D5EDA12-3FB5-4AF0-A6ED-997F25FF5530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5EDA12-3FB5-4AF0-A6ED-997F25FF5530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5EDA12-3FB5-4AF0-A6ED-997F25FF5530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5EDA12-3FB5-4AF0-A6ED-997F25FF5530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5EDA12-3FB5-4AF0-A6ED-997F25FF5530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE08D05-D769-44FF-A3C8-8260B6499695}
+	EndGlobalSection
+EndGlobal

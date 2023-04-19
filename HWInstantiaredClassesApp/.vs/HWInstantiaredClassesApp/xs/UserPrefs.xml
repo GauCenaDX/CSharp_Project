@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5D5EDA12-3FB5-4AF0-A6ED-997F25FF5530}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HWInstantiaredClasses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWInstantiaredClasses/GetInfo.cs">
+    <Files>
+      <File FileName="HWInstantiaredClasses/Program.cs" Line="14" Column="2" />
+      <File FileName="HWInstantiaredClasses/PersonModel.cs" Line="9" Column="46" />
+      <File FileName="HWInstantiaredClasses/AddressModel.cs" Line="7" Column="30" />
+      <File FileName="HWInstantiaredClasses/GetUserInfo.cs" Line="17" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWInstantiaredClassesApp" expanded="True">
+            <Node name="HWInstantiaredClasses" expanded="True">
+              <Node name="GetInfo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
