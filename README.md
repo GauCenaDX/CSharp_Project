@@ -20,3 +20,11 @@ https://github.com/GauCenaDX/CSharp_Project
 - Breakpoints and Debugger
 - Exceptions Handling
 
+### 4. ProjImprovedGuestBookApp
+
+- Static classes
+- Instantiated classes
+- Property types
+- Namespaces
+- Class Libraries
+
