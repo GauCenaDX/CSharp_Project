@@ -1,29 +1,31 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="BattleshipLiteLibrary/Models/PlayerInfoModel.cs">
+﻿<Properties StartupConfiguration="{E060897E-CE4A-495D-99B9-DC193E82F56E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BattleshipLite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleshipLite/Program.cs">
     <Files>
-      <File FileName="BattleshipLiteLibrary/Models/PlayerInfoModel.cs" Line="12" Column="2" />
-      <File FileName="BattleshipLiteLibrary/Models/GridSpotModel.cs" Line="10" Column="39" />
-      <File FileName="BattleshipLiteLibrary/Models/Enums.cs" Line="3" Column="1" />
+      <File FileName="BattleshipLite/Program.cs" Line="7" Column="25" />
+      <File FileName="BattleshipLiteLibrary/Models/PlayerInfoModel.cs" Line="7" Column="3" />
+      <File FileName="BattleshipLiteLibrary/GameLogic.cs" Line="26" Column="6" />
+      <File FileName="BattleshipLiteLibrary/Models/GridSpotModel.cs" Line="7" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BattleshipLiteApp" expanded="True">
+            <Node name="BattleshipLite" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="BattleshipLiteLibrary" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="PlayerInfoModel.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BattleshipLiteLibrary FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
