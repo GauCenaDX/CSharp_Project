@@ -19,7 +19,9 @@ namespace BattleshipLite
             do
             {
                 // Display grid from Active Player on where they fired
+                Console.WriteLine();
                 DisplayShotGrid(activePlayer);
+                Console.WriteLine("\n\n");
 
                 // Ask Active Player for a shot
                 // Determine if it is a valid shot
@@ -56,6 +58,8 @@ namespace BattleshipLite
 
         private static void IdentifyWinner(PlayerInfoModel winner)
         {
+            Console.WriteLine();
+            Console.WriteLine("**************************************************************");
             Console.WriteLine($"Congratulation to {winner.PlayerName} for winning!");
             Console.WriteLine($"{winner.PlayerName} took {GameLogic.GetShotCount(winner)} shots.");
         }
@@ -70,6 +74,8 @@ namespace BattleshipLite
             bool isValidShot = false;
             string row = "";
             int column = 0;
+
+            Console.WriteLine($"Player {activePlayer.PlayerName} turn -------------------");
 
             do
             {
@@ -114,7 +120,8 @@ namespace BattleshipLite
                     Console.WriteLine();
                     currentRow = gridSpot.SpotLetter;
                 }
-                else if (gridSpot.Status == GridSpotStatus.Empty)
+
+                if (gridSpot.Status == GridSpotStatus.Empty)
                 {
                     Console.Write($" {gridSpot.SpotLetter}{gridSpot.SpotNumber} ");
                 }
