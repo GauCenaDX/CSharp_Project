@@ -6,22 +6,23 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.BattleshipLite PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BattleshipLiteLibrary/GameLogic.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleshipLite/Program.cs">
     <Files>
-      <File FileName="BattleshipLite/Program.cs" Line="5" Column="36" />
-      <File FileName="BattleshipLiteLibrary/Models/PlayerInfoModel.cs" />
-      <File FileName="BattleshipLiteLibrary/GameLogic.cs" Line="201" Column="12" />
-      <File FileName="BattleshipLiteLibrary/Models/GridSpotModel.cs" />
+      <File FileName="BattleshipLite/Program.cs" Line="123" Column="1" />
+      <File FileName="BattleshipLiteLibrary/Models/PlayerInfoModel.cs" Line="10" Column="1" />
+      <File FileName="BattleshipLiteLibrary/GameLogic.cs" Line="145" Column="1" />
+      <File FileName="BattleshipLiteLibrary/Models/GridSpotModel.cs" Line="11" Column="1" />
       <File FileName="BattleshipLiteLibrary/Models/Enums.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BattleshipLiteApp" expanded="True">
-            <Node name="BattleshipLite" expanded="True" />
+            <Node name="BattleshipLite" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="BattleshipLiteLibrary" expanded="True">
               <Node name="Models" expanded="True" />
-              <Node name="GameLogic.cs" selected="True" />
             </Node>
           </Node>
         </State>
