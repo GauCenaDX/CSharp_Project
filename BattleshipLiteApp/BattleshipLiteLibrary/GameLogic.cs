@@ -143,7 +143,6 @@ namespace BattleshipLiteLibrary
 				throw new ArgumentException("This was an invalid shot type.", "shot");
 			}
 
-			// Convert a string to an array of characters
 			char[] shotArray = shot.ToArray();
 
 			row = shotArray[0].ToString();

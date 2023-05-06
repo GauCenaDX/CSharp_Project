@@ -32,3 +32,17 @@ X - Hit
 O - Miss
  
 
+New Grid Display
+---------------
+
+   1  2  3  4  5
+A  -  X  -  -  -
+B  -  O  -  -  -
+C  -  -  -  -  X
+D  -  -  O  O  -
+E  -  -  -  -  -
+
+-  - empty spot
+X  - Hit
+O  - Miss
+

@@ -28,3 +28,13 @@ https://github.com/GauCenaDX/CSharp_Project
 - Namespaces
 - Class Libraries
 
+### 5. BattleshipLiteApp
+
+- Public and static methods
+- Static and instantiated classes
+- Property types and namespaces
+- Tuple
+- Throw and handle exceptions
+- User interface code vs librarycode
+- Debugging and testing
+
