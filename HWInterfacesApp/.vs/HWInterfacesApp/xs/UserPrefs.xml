@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A33F6CDF-AFFD-4C24-9956-F5EDA0019591}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HWInterfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWInterfaces/Program.cs">
+    <Files>
+      <File FileName="HWInterfaces/Program.cs" Line="11" Column="42" />
+      <File FileName="HWInterfaces/IRun.cs" Line="1" Column="1" />
+      <File FileName="HWInterfaces/Person.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWInterfacesApp" expanded="True">
+            <Node name="HWInterfaces" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
