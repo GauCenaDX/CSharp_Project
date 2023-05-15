@@ -1,2 +1,5 @@
 .DS_Store
+precheck_cleanup.sh
+precheck_cleanup.log
 cleanup.sh
+cleanup.log
