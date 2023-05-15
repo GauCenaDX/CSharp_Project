@@ -38,3 +38,15 @@ https://github.com/GauCenaDX/CSharp_Project
 - User interface code vs librarycode
 - Debugging and testing
 
+### 6. InheritanceMiniProjectApp
+
+- Inheritance
+- Interfaces
+
+### 7. GameCardApp
+
+- Access modifiers
+- Abstract classes and methods
+- Method overriding
+- Introduce to Random(), lambda expression, arrow functions
+
