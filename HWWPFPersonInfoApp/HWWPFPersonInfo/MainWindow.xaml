@@ -1,0 +1,43 @@
+﻿<Window x:Class="HWWPFPersonInfo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HWWPFPersonInfo"
+        mc:Ignorable="d" FontSize="22"
+        Title="Person Info by Duc Nguyen" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="1" FontSize="36" FontWeight="Bold" Margin="0 20">A person info</TextBlock>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1" Margin="0 10">
+            <TextBlock>First Name</TextBlock>
+            <TextBox x:Name="firstNameTextBox" MinWidth="250" Margin="10 0 0 0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" Margin="0 10">
+            <TextBlock>Last Name</TextBlock>
+            <TextBox x:Name="lastNameTextBox" MinWidth="250" Margin="10 0 0 0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1" Margin="0 10">
+            <TextBlock>Email</TextBlock>
+            <TextBox x:Name="emailTextBox" MinWidth="300" Margin="10 0 0 0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.Column="1" Margin="0 10">
+            <TextBlock>Address List</TextBlock>
+            <Button x:Name="addAddressButton" Margin="20 0 0 0" Padding="10 0 10 0" Click="AddAddressButton_Click">Add</Button>
+        </StackPanel>
+        <ListBox x:Name="addressListBox" Grid.Row="5" Grid.Column="1" MinHeight="100" />
+    </Grid>
+</Window>
