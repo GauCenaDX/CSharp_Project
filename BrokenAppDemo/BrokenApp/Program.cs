@@ -2,13 +2,13 @@
 
 CompanyCreator company = new();
 int totalEmployees = 0;
-int totalDaysOff = 0;
+double totalDaysOff = 0;
 
 List<CompanyModel> companies = company.CreateCompanyList();
 
 foreach (var c in companies)
 {
-    Console.WriteLine($"Company: { c.CompanyName }, Employees: { c.NumberOfEmployees }, Days Off: { c.NumberOfDaysOffTotal}, Average: { c.AverageDaysOff }");
+    Console.WriteLine($"Company: { c.CompanyName }, Employees: { c.NumberOfEmployees }, Days Off: { c.NumberOfDaysOffTotal}, Average: { c.AverageDaysOff() }");
     totalEmployees += c.NumberOfEmployees;
     totalDaysOff += c.NumberOfDaysOffTotal;
 }
